@@ -1,5 +1,6 @@
 Coastal Threat Alert System
-Description:
+
+
 Coastal areas are vital for blue carbon storage but face threats like storm surges, coastal 
 erosion, pollution, and illegal activities. This problem is to build a
 comprehensive early warning and alerting platform that collects data from physical sensors 
